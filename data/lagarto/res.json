@@ -1,0 +1,571 @@
+{
+    "n_total": 32,
+    "animales": [
+        {
+            "cabeza": [
+                0
+            ],
+            "cuerpo": [
+                1
+            ],
+            "patas": [
+                2,
+                3,
+                4
+            ],
+            "cola": [
+                5
+            ],
+            "file_name": "n01685808_123.JPEG"
+        },
+        {
+            "cabeza": [
+                0
+            ],
+            "cuerpo": [
+                3
+            ],
+            "patas": [
+                1,
+                2,
+                4,
+                5
+            ],
+            "cola": [
+                6
+            ],
+            "file_name": "n01685808_5451.JPEG"
+        },
+        {
+            "cabeza": [
+                5
+            ],
+            "cuerpo": [
+                6
+            ],
+            "patas": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "cola": [
+                4
+            ],
+            "file_name": "n01685808_12872.JPEG"
+        },
+        {
+            "cabeza": [
+                0
+            ],
+            "cuerpo": [
+                2
+            ],
+            "patas": [
+                3,
+                4,
+                5
+            ],
+            "cola": [
+                1
+            ],
+            "file_name": "n01685808_6589.JPEG"
+        },
+        {
+            "cabeza": [
+                0
+            ],
+            "cuerpo": [
+                5
+            ],
+            "patas": [
+                1,
+                2,
+                3,
+                6
+            ],
+            "cola": [
+                4
+            ],
+            "file_name": "n01685808_5692.JPEG"
+        },
+        {
+            "cabeza": [
+                0
+            ],
+            "cuerpo": [
+                2
+            ],
+            "patas": [
+                1,
+                3,
+                4
+            ],
+            "cola": [
+                5
+            ],
+            "file_name": "n01685808_6775.JPEG"
+        },
+        {
+            "cabeza": [
+                0
+            ],
+            "cuerpo": [
+                1
+            ],
+            "patas": [
+                2,
+                3,
+                4,
+                5
+            ],
+            "cola": [
+                6
+            ],
+            "file_name": "n01685808_1056.JPEG"
+        },
+        {
+            "cabeza": [
+                0
+            ],
+            "cuerpo": [
+                5
+            ],
+            "patas": [
+                1,
+                2,
+                3,
+                6,
+                7
+            ],
+            "cola": [
+                4
+            ],
+            "file_name": "n01685808_5319.JPEG"
+        },
+        {
+            "cabeza": [
+                4
+            ],
+            "cuerpo": [
+                5
+            ],
+            "patas": [
+                0,
+                1,
+                2
+            ],
+            "cola": [
+                3
+            ],
+            "file_name": "n01685808_3173.JPEG"
+        },
+        {
+            "cabeza": [
+                0
+            ],
+            "cuerpo": [
+                2
+            ],
+            "patas": [
+                1,
+                3,
+                4,
+                5
+            ],
+            "cola": [
+                6
+            ],
+            "file_name": "n01685808_5762.JPEG"
+        },
+        {
+            "cabeza": [
+                0
+            ],
+            "cuerpo": [
+                3
+            ],
+            "patas": [
+                1,
+                2,
+                5,
+                6
+            ],
+            "cola": [
+                4
+            ],
+            "file_name": "n01685808_9159.JPEG"
+        },
+        {
+            "cabeza": [
+                0
+            ],
+            "cuerpo": [
+                1
+            ],
+            "patas": [
+                2,
+                3,
+                4,
+                5
+            ],
+            "cola": [
+                6
+            ],
+            "file_name": "n01685808_1348.JPEG"
+        },
+        {
+            "cabeza": [
+                0
+            ],
+            "cuerpo": [
+                1
+            ],
+            "patas": [
+                2,
+                3,
+                4
+            ],
+            "cola": [
+                5
+            ],
+            "file_name": "n01685808_9777.JPEG"
+        },
+        {
+            "cabeza": [
+                0
+            ],
+            "cuerpo": [
+                1
+            ],
+            "patas": [
+                2,
+                3,
+                4
+            ],
+            "cola": [
+                5
+            ],
+            "file_name": "n01685808_5628.JPEG"
+        },
+        {
+            "cabeza": [
+                6
+            ],
+            "cuerpo": [
+                2
+            ],
+            "patas": [
+                0,
+                1,
+                4,
+                5
+            ],
+            "cola": [
+                3
+            ],
+            "file_name": "n01685808_2610.JPEG"
+        },
+        {
+            "cabeza": [
+                0
+            ],
+            "cuerpo": [
+                1
+            ],
+            "patas": [
+                2,
+                3,
+                4,
+                5
+            ],
+            "cola": [
+                6
+            ],
+            "file_name": "n01685808_1181.JPEG"
+        },
+        {
+            "cabeza": [
+                0
+            ],
+            "cuerpo": [
+                5
+            ],
+            "patas": [
+                1,
+                2,
+                3,
+                6
+            ],
+            "cola": [
+                4
+            ],
+            "file_name": "n01685808_7550.JPEG"
+        },
+        {
+            "cabeza": [
+                0
+            ],
+            "cuerpo": [
+                6
+            ],
+            "patas": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "cola": [
+                5
+            ],
+            "file_name": "n01685808_4610.JPEG"
+        },
+        {
+            "cabeza": [
+                0
+            ],
+            "cuerpo": [
+                5
+            ],
+            "patas": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "cola": [
+                6
+            ],
+            "file_name": "n01685808_8895.JPEG"
+        },
+        {
+            "cabeza": [
+                0
+            ],
+            "cuerpo": [
+                6
+            ],
+            "patas": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "cola": [
+                5
+            ],
+            "file_name": "n01685808_8859.JPEG"
+        },
+        {
+            "cabeza": [
+                0
+            ],
+            "cuerpo": [
+                5
+            ],
+            "patas": [
+                1,
+                2,
+                4
+            ],
+            "cola": [
+                3
+            ],
+            "file_name": "n01685808_5582.JPEG"
+        },
+        {
+            "cabeza": [
+                0
+            ],
+            "cuerpo": [
+                1
+            ],
+            "patas": [
+                2,
+                3,
+                4
+            ],
+            "cola": [
+                5
+            ],
+            "file_name": "n01685808_8360.JPEG"
+        },
+        {
+            "cabeza": [
+                0
+            ],
+            "cuerpo": [
+                1
+            ],
+            "patas": [
+                2,
+                3,
+                4,
+                5
+            ],
+            "cola": [
+                6
+            ],
+            "file_name": "n01685808_2054.JPEG"
+        },
+        {
+            "cabeza": [
+                0
+            ],
+            "cuerpo": [
+                4
+            ],
+            "patas": [
+                1,
+                2,
+                3
+            ],
+            "cola": [
+                5,
+                6
+            ],
+            "file_name": "n01685808_419.JPEG"
+        },
+        {
+            "cabeza": [
+                4
+            ],
+            "cuerpo": [
+                5
+            ],
+            "patas": [
+                1,
+                2,
+                3
+            ],
+            "cola": [
+                0
+            ],
+            "file_name": "n01685808_5327.JPEG"
+        },
+        {
+            "cabeza": [
+                0
+            ],
+            "cuerpo": [
+                3
+            ],
+            "patas": [
+                2,
+                4
+            ],
+            "cola": [
+                1
+            ],
+            "file_name": "n01685808_8903.JPEG"
+        },
+        {
+            "cabeza": [
+                0
+            ],
+            "cuerpo": [
+                4
+            ],
+            "patas": [
+                1,
+                2,
+                3,
+                5
+            ],
+            "cola": [
+                6
+            ],
+            "file_name": "n01685808_6717.JPEG"
+        },
+        {
+            "cabeza": [
+                0
+            ],
+            "cuerpo": [
+                1
+            ],
+            "patas": [
+                2,
+                3,
+                4,
+                5
+            ],
+            "cola": [
+                6
+            ],
+            "file_name": "n01685808_2984.JPEG"
+        },
+        {
+            "cabeza": [
+                0
+            ],
+            "cuerpo": [
+                6
+            ],
+            "patas": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "cola": [
+                5
+            ],
+            "file_name": "n01685808_5288.JPEG"
+        },
+        {
+            "cabeza": [
+                0
+            ],
+            "cuerpo": [
+                5
+            ],
+            "patas": [
+                1,
+                2,
+                3
+            ],
+            "cola": [
+                4
+            ],
+            "file_name": "n01685808_319.JPEG"
+        },
+        {
+            "cabeza": [
+                0
+            ],
+            "cuerpo": [
+                3
+            ],
+            "patas": [
+                1,
+                2,
+                4,
+                5
+            ],
+            "cola": [
+                6,
+                7
+            ],
+            "file_name": "n01685808_8550.JPEG"
+        },
+        {
+            "cabeza": [
+                0
+            ],
+            "cuerpo": [
+                1
+            ],
+            "patas": [
+                2,
+                3,
+                4,
+                5
+            ],
+            "cola": [
+                6
+            ],
+            "file_name": "n01685808_65.JPEG"
+        }
+    ]
+}
